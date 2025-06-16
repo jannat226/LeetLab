@@ -1,5 +1,5 @@
 # LeetLab
-It is a full-stack web app built as a fun take on LeetCode. Building a platform to practice the my webdev skills and will practice my DSA on it. 
+It is a full-stack web app built as a fun take on LeetCode. Building a platform to practice  my webdev skills keeping the functionalities in mind of one of the most used platform to prcatice DSA by people all around . 
 
 ##API ARCHITECTURE
 authentication
